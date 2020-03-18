@@ -1,7 +1,4 @@
-const fs = require('fs');
 const yargs = require('yargs')
-const validator = require('validator');
-const chalk = require('chalk');
 const notes = require('./notes.js');
 
 // console.log(process.argv);
